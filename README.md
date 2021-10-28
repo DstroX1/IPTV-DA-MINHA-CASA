@@ -25,5 +25,8 @@ http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36055
 #EXTINF:-1 tvg-id="" tvg-name="HBO FULL HD" tvg-logo="" group-title="CANAIS DA CASA FREITAS",HBO FULL HD
 http://xcui.vitvabc.xyz:8880/287994000027/287994000027/35980
 
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon HD" tvg-logo="" group-title="CANAIS: Dublado",Nickelodeon HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36017
+
 #EXTINF:-1 tvg-id="" tvg-name="JOGO DO CAMPINENSE" tvg-logo="" group-title="CANAIS DA CASA FREITAS",JOGO DO CAMPINENSE
 http://campinense.com/jogo
