@@ -28,5 +28,8 @@ http://xcui.vitvabc.xyz:8880/287994000027/287994000027/35980
 #EXTINF:-1 tvg-id="" tvg-name="NICKELODEON HD" tvg-logo="" group-title="CANAIS DA CASA FREITAS",NICKELODEON FULL HD
 http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36017
 
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV CABO BRANCO FULL HD 01" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS DA CASA FREITAS",GLOBO TV CABO BRANCO FULL HD 01
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32281
+
 #EXTINF:-1 tvg-id="" tvg-name="JOGO DO CAMPINENSE" tvg-logo="" group-title="CANAIS DA CASA FREITAS",JOGO DO CAMPINENSE
 http://campinense.com/jogo
