@@ -19,4 +19,8 @@ http://xcui.vitvabc.xyz:8880/287994000027/287994000027/35978
 #EXTINF:-1 tvg-id="" tvg-name="SPORTV FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/2fe8c2d049c14e311dd96b235d599c77.png" group-title="CANAIS DA CASA FREITAS",SPORTV FULL HD
 http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31251
 
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK FULL HD" tvg-logo="" group-title="CANAIS DA CASA FREITAS",CARTOON NETWORK FULL HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36055
+
 #EXTINF:-1 tvg-id="" tvg-name="JOGO DO CAMPINENSE" tvg-logo="" group-title="CANAIS DA CASA FREITAS",JOGO DO CAMPINENSE
+http://campinense.com/jogo
