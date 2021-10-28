@@ -4,6 +4,7 @@
 http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32371
 
 #EXTINF:-1 tvg-id="" tvg-name="SBT FULL HD ¹" tvg-logo="http://xcui.vitvabc.xyz:8880/images/eadc1bacb17aea28d29fefc19868b5e1.png" group-title="CANAIS DA CASA FREITAS",SBT FULL HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31077
 
 #EXTINF:-1 tvg-id="" tvg-name="RECORD FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/83c8d9c5f77bb532343d417188302a37.png" group-title="CANAIS DA CASA FREITAS",RECORD FULL HD
 http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31555
