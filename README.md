@@ -28,5 +28,28 @@ http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36017
 #EXTINF:-1 tvg-id="" tvg-name="HBO FULL HD" tvg-logo="" group-title="CANAIS FILMES E SERIES",HBO FULL HD
 http://xcui.vitvabc.xyz:8880/287994000027/287994000027/35980
 
+#EXTINF:-1 tvg-id="" tvg-name="SCOOBY DOO" tvg-logo="http://xcui.vitvabc.xyz:8880/images/3efa1550342fbbedee17d4935d43d0e2.png" group-title="CANAIS 24HS",SCOOBY DOO
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31667
+
+#EXTINF:-1 tvg-id="" tvg-name="CHAPOLIN" tvg-logo="http://xcui.vitvabc.xyz:8880/images/b5bf77c52a20f81917e9e7d31693a24a.png" group-title="CANAIS 24HRS",CHAPOLIN
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31675
+
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES" tvg-logo="http://xcui.vitvabc.xyz:8880/images/11fa22bd9c5aa4a0e7f769edb69122d4.png" group-title="CANAIS 24HRS",CHAVES
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31676 
+
+#EXTINF:-1 tvg-id="" tvg-name="OS SMURFS" tvg-logo="http://xcui.vitvabc.xyz:8880/images/edb19479cf3a345fee911161d15a239e.png" group-title="CANAIS 24HRS",OS SMURFS
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31742
+
+#EXTINF:-1 tvg-id="" tvg-name="POWER RANGERS" tvg-logo="http://51.222.46.117:80/images/c2b931974cdc4dd161c379f017226ed9.png" group-title="CANAIS 24HRS",POWER RANGERS
+
+#EXTINF:-1 tvg-id="" tvg-name="BEN 10" tvg-logo="http://xcui.vitvabc.xyz:8880/images/891a36d72ddc473d7b3ffd60ccbe5feb.png" group-title="CANAIS 24HRS",BEN 10
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31653
+
+#EXTINF:-1 tvg-id="" tvg-name="BEN 10 (2005)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/891a36d72ddc473d7b3ffd60ccbe5feb.png" group-title="CANAIS 24HRS",BEN 10 (2005)
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31654
+
+#EXTINF:-1 tvg-id="" tvg-name="BANANAS DE PIJAMAS" tvg-logo="http://xcui.vitvabc.xyz:8880/images/aeae9c93435441532b491274bec4ac0d.png" group-title="CANAIS 24HRS",BANANAS DE PIJAMAS
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31657 
+
 #EXTINF:-1 tvg-id="" tvg-name="JOGO DO CAMPINENSE" tvg-logo="" group-title="FLAVIO TREZIANO KKK",JOGO DO CAMPINENSE
 http://campinense.com/jogo
