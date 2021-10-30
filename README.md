@@ -22,7 +22,7 @@ http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31251
 #EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK FULL HD" tvg-logo="" group-title="CANAIS INFANTIL",CARTOON NETWORK FULL HD
 http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36055
 
-#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON HD" tvg-logo="" group-title="CANAIS DA CASA FREITAS",NICKELODEON FULL HD
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON HD" tvg-logo="" group-title="CANAIS INFANTIL",NICKELODEON FULL HD
 http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36017
 
 #EXTINF:-1 tvg-id="" tvg-name="HBO FULL HD" tvg-logo="" group-title="CANAIS FILMES E SERIES",HBO FULL HD
