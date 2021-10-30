@@ -52,4 +52,4 @@ http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31654
 http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31657 
 
 #EXTINF:-1 tvg-id="" tvg-name="JOGO DO CAMPINENSE" tvg-logo="" group-title="FLAVIO TREZIANO KKK",JOGO DO CAMPINENSE
-http://campinense.com/jogo
+https://playlists.mycujoo.football/sa/cks6ogby776oo0hekbyn4uhpg/720p/playlist.m3u8
