@@ -25,9 +25,6 @@ http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36055
 #EXTINF:-1 tvg-id="" tvg-name="NICKELODEON HD" tvg-logo="" group-title="CANAIS INFANTIL",NICKELODEON FULL HD
 http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36017
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO FULL HD" tvg-logo="" group-title="CANAIS FILMES E SERIES",HBO FULL HD
-http://xcui.vitvabc.xyz:8880/287994000027/287994000027/35980
-
 #EXTINF:-1 tvg-id="" tvg-name="SCOOBY DOO FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/3efa1550342fbbedee17d4935d43d0e2.png" group-title="CANAIS 24HRS",SCOOBY DOO FULL HD
 http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31667
 
@@ -45,5 +42,8 @@ http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31653
 
 #EXTINF:-1 tvg-id="" tvg-name="BANANAS DE PIJAMAS FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/aeae9c93435441532b491274bec4ac0d.png" group-title="CANAIS 24HRS",BANANAS DE PIJAMAS FULL HD
 http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31657 
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO FULL HD" tvg-logo="" group-title="CANAIS FILMES E SERIES",HBO FULL HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/35980
 
 #EXTINF:-1 tvg-id="" tvg-name="JOGO DO CAMPINENSE FULL HD" tvg-logo="" group-title="SO PEGA NO DIA DO JOGO",JOGO DO CAMPINENSE
