@@ -40,11 +40,10 @@ http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31676
 #EXTINF:-1 tvg-id="" tvg-name="TARTARUGAS NINJAS FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/edb19479cf3a345fee911161d15a239e.png" group-title="CANAIS 24HRS",TARTARUGAS NINJAS FULL HD
 http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31742
 
-#EXTINF:-1 tvg-id="" tvg-name="BEN 10 FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/891a36d72ddc473d7b3ffd60ccbe5feb.png" group-title="CANAIS 24HRS",BEN 10
+#EXTINF:-1 tvg-id="" tvg-name="BEN 10 FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/891a36d72ddc473d7b3ffd60ccbe5feb.png" group-title="CANAIS 24HRS",BEN 10 FULL HD
 http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31653
 
 #EXTINF:-1 tvg-id="" tvg-name="BANANAS DE PIJAMAS FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/aeae9c93435441532b491274bec4ac0d.png" group-title="CANAIS 24HRS",BANANAS DE PIJAMAS FULL HD
 http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31657 
 
 #EXTINF:-1 tvg-id="" tvg-name="JOGO DO CAMPINENSE FULL HD" tvg-logo="" group-title="SO PEGA NO DIA DO JOGO",JOGO DO CAMPINENSE
-https://playlists.mycujoo.football/sa/cks6ogby776oo0hekbyn4uhpg/720p/playlist.m3u8
