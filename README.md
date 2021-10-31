@@ -31,7 +31,7 @@ http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31667
 #EXTINF:-1 tvg-id="" tvg-name="CHAPOLIN COLORADO FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/b5bf77c52a20f81917e9e7d31693a24a.png" group-title="CANAIS 24HRS",CHAPOLIN COLORADO FULL HD
 http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31675
 
-#EXTINF:-1 tvg-id="" tvg-name="CHAVES FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/11fa22bd9c5aa4a0e7f769edb69122d4.png" group-title="CANAIS 24HRS",CHAVES
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/11fa22bd9c5aa4a0e7f769edb69122d4.png" group-title="CANAIS 24HRS",CHAVES FULL HD
 http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31676 
 
 #EXTINF:-1 tvg-id="" tvg-name="TARTARUGAS NINJAS FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/edb19479cf3a345fee911161d15a239e.png" group-title="CANAIS 24HRS",TARTARUGAS NINJAS FULL HD
