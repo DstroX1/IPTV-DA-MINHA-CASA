@@ -28,7 +28,7 @@ http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36017
 #EXTINF:-1 tvg-id="" tvg-name="HBO FULL HD" tvg-logo="" group-title="CANAIS FILMES E SERIES",HBO FULL HD
 http://xcui.vitvabc.xyz:8880/287994000027/287994000027/35980
 
-#EXTINF:-1 tvg-id="" tvg-name="SCOOBY DOO" tvg-logo="http://xcui.vitvabc.xyz:8880/images/3efa1550342fbbedee17d4935d43d0e2.png" group-title="CANAIS 24HRS",SCOOBY DOO FULL HD
+#EXTINF:-1 tvg-id="" tvg-name="SCOOBY DOO FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/3efa1550342fbbedee17d4935d43d0e2.png" group-title="CANAIS 24HRS",SCOOBY DOO FULL HD
 http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31667
 
 #EXTINF:-1 tvg-id="" tvg-name="CHAPOLIN COLORADO FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/b5bf77c52a20f81917e9e7d31693a24a.png" group-title="CANAIS 24HRS",CHAPOLIN COLORADO FULL HD
