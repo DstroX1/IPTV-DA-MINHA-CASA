@@ -80,6 +80,11 @@ http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31653
 #EXTINF:-1 tvg-id="" tvg-name="BANANAS DE PIJAMAS FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/aeae9c93435441532b491274bec4ac0d.png" group-title="CANAIS 24HRS",BANANAS DE PIJAMAS FULL HD
 http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31657 
 
+
+#EXTINF:-1 tvg-id="Premiere 2 FHD" tvg-name="PREMIERE 2 FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE 2 FULL HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31528
+
+
 CANAIS FILMES E SERIES
 
 #EXTINF:-1 tvg-id="" tvg-name="HBO FULL HD" tvg-logo="" group-title="CANAIS FILMES E SERIES",HBO FULL HD
