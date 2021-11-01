@@ -1,7 +1,6 @@
 #EXTM3U
 
-/////////////////////////////
-//CANAIS ABERTOS
+CANAIS ABERTOS
 
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS ABERTOS",GLOBO FULL HD
 http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32371
@@ -12,14 +11,12 @@ http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31077
 #EXTINF:-1 tvg-id="" tvg-name="RECORD FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/83c8d9c5f77bb532343d417188302a37.png" group-title="CANAIS ABERTOS",RECORD FULL HD
 http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31555
 
-/////////////////////////////
-//CANAIS ESPORTE
+CANAIS ESPORTE
 
 #EXTINF:-1 tvg-id="COMBATE FULL HD" tvg-name="COMBATE FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/758d8b1cbf0b6cee37110825fead0f77.png" group-title="CANAIS ESPORTES",COMBATE FULL HD
 http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31137
 
-/////////////////////////////
-//CANAIS PREMIERE
+CANAIS PREMIERE
 
 #EXTINF:-1 tvg-id="Premiere 2 HD" tvg-name="PREMIERE 2 HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE 2 HD
 http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31529
@@ -44,8 +41,7 @@ http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31545
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES FULL HD" tvg-logo="" group-title="CANAIS: PREMIERE",PREMIERE CLUBES FULL HD
 http://xcui.vitvabc.xyz:8880/287994000027/287994000027/35978
 
-/////////////////////////////
-//CANAIS SPORTV
+CANAIS SPORTV
 
 #EXTINF:-1 tvg-id="" tvg-name="SPORTV FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/2fe8c2d049c14e311dd96b235d599c77.png" group-title="CANAIS: SPORTV",SPORTV HD
 http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31251
@@ -55,8 +51,8 @@ http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31163
 
 #EXTINF:-1 tvg-id="SporTV 3" tvg-name="SPORTV 3 HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/c18d8a3253e514c683a2c5e5c2ba1019.png" group-title="CANAIS: SPORTV",SPORTV 3 HD
 http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31166
-/////////////////////////////
-//CANAIS INFANTIL
+
+CANAIS INFANTIL
 
 #EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK FULL HD" tvg-logo="" group-title="CANAIS INFANTIL",CARTOON NETWORK FULL HD
 http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36055
@@ -64,8 +60,7 @@ http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36055
 #EXTINF:-1 tvg-id="" tvg-name="NICKELODEON HD" tvg-logo="" group-title="CANAIS INFANTIL",NICKELODEON FULL HD
 http://xcui.vitvabc.xyz:8880/287994000027/287994000027/36017
 
-/////////////////////////////
-//CANAIS 24 HORAS
+CANAIS 24 HORAS
 
 #EXTINF:-1 tvg-id="" tvg-name="SCOOBY DOO FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/3efa1550342fbbedee17d4935d43d0e2.png" group-title="CANAIS 24HRS",SCOOBY DOO FULL HD
 http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31667
@@ -85,13 +80,11 @@ http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31653
 #EXTINF:-1 tvg-id="" tvg-name="BANANAS DE PIJAMAS FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/aeae9c93435441532b491274bec4ac0d.png" group-title="CANAIS 24HRS",BANANAS DE PIJAMAS FULL HD
 http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31657 
 
-/////////////////////////////
-//CANAIS FILMES E SERIES
+CANAIS FILMES E SERIES
 
 #EXTINF:-1 tvg-id="" tvg-name="HBO FULL HD" tvg-logo="" group-title="CANAIS FILMES E SERIES",HBO FULL HD
 http://xcui.vitvabc.xyz:8880/287994000027/287994000027/35980
 
-/////////////////////////////
-//JOGO DO CAMPIMENSE
+JOGO DO CAMPIMENSE
 
 #EXTINF:-1 tvg-id="" tvg-name="JOGO DO CAMPINENSE FULL HD" tvg-logo="" group-title="SO PEGA NO DIA DO JOGO",JOGO DO CAMPINENSE
