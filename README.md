@@ -18,25 +18,23 @@ http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31137
 
 CANAIS PREMIERE
 
-#EXTINF:-1 tvg-id="Premiere 2 HD" tvg-name="PREMIERE 2 HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE 2 HD
-http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31529
+EXTINF:-1 tvg-id="Premiere 2 FHD" tvg-name="PREMIERE 2 FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE 2 FULL HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31528
 
-#EXTINF:-1 tvg-id="Premiere 3 HD" tvg-name="PREMIERE 3 HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE 3 HD
-http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31533
+#EXTINF:-1 tvg-id="Premiere 3 FHD" tvg-name="PREMIERE 3 FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE 3 FULL HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31532
 
-#EXTINF:-1 tvg-id="Premiere 4 HD" tvg-name="PREMIERE 4 HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE 4 HD
-http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31537
+#EXTINF:-1 tvg-id="Premiere 4 FHD" tvg-name="PREMIERE 4 FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE 4 FULL HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31536
 
-#EXTINF:-1 tvg-id="Premiere 5 HD" tvg-name="PREMIERE 5 HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE 5 HD
-http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31540
+#EXTINF:-1 tvg-id="Premiere 5 FHD" tvg-name="PREMIERE 5 FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE 5 FULL HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31539
 
+#EXTINF:-1 tvg-id="Premiere 6 FHD" tvg-name="PREMIERE 6 FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE 6 FULL HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31542
 
-#EXTINF:-1 tvg-id="Premiere 6 HD" tvg-name="PREMIERE 6 HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE 6 HD
-http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31543
-
-
-#EXTINF:-1 tvg-id="Premiere 7 HD" tvg-name="PREMIERE 7 HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE 7 HD
-http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31545
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="PREMIERE 7 FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE 7 FULL HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31544
 
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES FULL HD" tvg-logo="" group-title="CANAIS: PREMIERE",PREMIERE CLUBES FULL HD
 http://xcui.vitvabc.xyz:8880/287994000027/287994000027/35978
