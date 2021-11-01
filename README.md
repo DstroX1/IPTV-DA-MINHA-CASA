@@ -47,9 +47,14 @@ http://xcui.vitvabc.xyz:8880/287994000027/287994000027/35978
 /////////////////////////////
 //CANAIS SPORTV
 
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/2fe8c2d049c14e311dd96b235d599c77.png" group-title="CANAIS SPORTV",SPORTV FULL HD
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/2fe8c2d049c14e311dd96b235d599c77.png" group-title="CANAIS: SPORTV",SPORTV HD
 http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31251
 
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SPORTV 2 HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/7cdd99f0f49e9148979d0c07bbbd3318.png" group-title="CANAIS: SPORTV",SPORTV 2 HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31163
+
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SPORTV 3 HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/c18d8a3253e514c683a2c5e5c2ba1019.png" group-title="CANAIS: SPORTV",SPORTV 3 HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31166
 /////////////////////////////
 //CANAIS INFANTIL
 
